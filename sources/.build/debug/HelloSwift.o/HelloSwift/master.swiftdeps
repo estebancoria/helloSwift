@@ -1,5 +1,0 @@
-version: "Swift version 2.2-dev (LLVM 3ebdbb2c7e, Clang f66c5bb67b, Swift 0ddf238ad7)"
-options: "588723f869dcebfb043b7430e5f977aa"
-build_time: [520094897, 716195000]
-inputs:
-  "/home/estebancoria/Repositorio/helloSwift/sources/main.swift": [520093509, 0]
