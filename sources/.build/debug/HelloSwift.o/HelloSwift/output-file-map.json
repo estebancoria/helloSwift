@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/estebancoria/Repositorio/helloSwift/sources/.build/debug/HelloSwift.o/HelloSwift/master.swiftdeps"
+  },
+  "/home/estebancoria/Repositorio/helloSwift/sources/main.swift": {
+    "dependencies": "/home/estebancoria/Repositorio/helloSwift/sources/.build/debug/HelloSwift.o/HelloSwift/main.d",
+    "object": "/home/estebancoria/Repositorio/helloSwift/sources/.build/debug/HelloSwift.o/main.swift.o",
+    "swiftmodule": "/home/estebancoria/Repositorio/helloSwift/sources/.build/debug/HelloSwift.o/HelloSwift/main~partial.swiftmodule",
+    "swift-dependencies": "/home/estebancoria/Repositorio/helloSwift/sources/.build/debug/HelloSwift.o/HelloSwift/main.swiftdeps"
+  }
+}
